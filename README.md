@@ -1,0 +1,1 @@
+Exemplo de comentário para o arquivo read-me do projeto AVAX.
